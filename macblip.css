@@ -17,6 +17,10 @@ h1 {
   letter-spacing: -0.1ex;
 	margin: 5px;
 }
+h1 img {
+  vertical-align: middle;
+  margin-bottom: 10px;
+}
 h4 {
   margin-bottom: 0;
 }
@@ -61,6 +65,7 @@ blockquote {
   text-align: right;
   color: #444;
   font-size: smaller;
+  margin-top: 30px;
 }
 
 table {
